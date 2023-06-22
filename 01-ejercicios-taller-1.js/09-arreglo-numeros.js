@@ -3,9 +3,13 @@
 // Elimine el segundo elemento.
 // Recorra e imprima el arreglo.
 
+// Write a program that: 
+// asks a user for a number and creates an array of numbers starting in 1 until the number given by the user (include it)
+// Eliminates the second element of the array. 
+// Go over the array and print it. 
+
 let numbers = Number(prompt('Por favor ingrese un numero')); 
 let number1 = [];
- 
 
 for (let i = 1; i <= numbers; ++i)
   number1.push(i)

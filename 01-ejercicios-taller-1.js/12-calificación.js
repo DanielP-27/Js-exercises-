@@ -1,6 +1,7 @@
 // 1. Ingresar una calificación y determinar si el alumno aprobó o reprobó la materia (3.5 es la nota mínima para pasar). DONE
 // 2. Ingresar tres calificaciones, calcular el promedio y determinar si el alumno aprobó la materia (3.5 es la nota mínima para pasar). DONE
 
+
 function student1(student, subject1, scoreAverage1, scoreSum) {
 
 
